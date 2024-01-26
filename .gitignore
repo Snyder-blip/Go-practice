@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# Ignore all files without extension
+*
+!*.*
+!*/
+
+# Others
+.vscode
