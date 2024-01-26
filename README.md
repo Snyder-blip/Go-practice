@@ -1,2 +1,2 @@
 # Go practice
-A bit of Go code
+A bit of Go code.
